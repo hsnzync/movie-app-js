@@ -1,4 +1,4 @@
-# test-app
+# Movie app in JS
 
 ## Configure settings
 
