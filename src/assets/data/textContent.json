@@ -1,0 +1,25 @@
+{
+  "textContent": {
+    "general": {
+      "readMore": "Read more",
+      "readLess": "Read less",
+      "loading": "Loading"
+    },
+    "movie": {
+      "type": "Type",
+      "year": "Year",
+      "rated": "Rated",
+      "genre": "Genre",
+      "director": "Director",
+      "writer": "Writer",
+      "actors": "Actors",
+      "plot": "Plot",
+      "awards": "Awards"
+    },
+    "navigation": {
+      "home": "Home",
+      "shortPlot": "Short Plot",
+      "fullPlot": "Full Plot"
+    }
+  }
+}
